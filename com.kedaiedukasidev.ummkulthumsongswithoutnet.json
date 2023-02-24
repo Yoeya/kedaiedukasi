@@ -7,9 +7,9 @@
       "main_ads_intertitial":"ca-app-pub-5253819790270790/5881362xxx",
       "main_ads_natives":"ca-app-pub-5253819790270790/4432549xxx",
       "main_ads_rewards":"",
-      "backup_ads_natives":"c260228ed35c3xxx",
+      "backup_ads_natives":"c260228ed35c360f",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"98f29b8a9f8c0xxx",
+      "backup_ads_intertitial":"98f29b8a9f8c07fb",
       "backup_ads_rewards":"",
       "open_ads_admob":"ca-app-pub-5253819790270790/3523610xxx",
       "open_ads_alien":"",
@@ -23,8 +23,8 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "1",
-      "link_redirect": "https://play.google.com/store/apps/developer?id=Kedai+Edukasi"
+      "status_app": "0",
+      "link_redirect": ""
     }
   ],
   "Categories": [
